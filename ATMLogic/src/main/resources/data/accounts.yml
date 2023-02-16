@@ -1,0 +1,10 @@
+---
+cardNumber: 97722
+pin: 0
+checkingNumber: 9112
+checkingBalance: 500300
+savings:
+- savingsNumber: 1199
+  savingsBalance: 0
+- savingsNumber: 0
+  savingsBalance: 1500
