@@ -1,5 +1,4 @@
 # ATMLogic
-Note: Please do not claim my work as your own. Solving coding scenarios like these will only build on your coding skills.
 
 Note: Please do not claim my work as your own. Solving coding scenarios like these will only build on your coding skills.
 
